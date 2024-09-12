@@ -26,16 +26,16 @@
 
 ---
 
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2000l&theme=dracula&border_radius=10" alt="ashish2000l" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratibha54&theme=dracula&border_radius=10" alt="pratibha54" /></p>
 
-<p align='center'><img align='center' src="https://github-profile-trophy.vercel.app/?username=Ashish2000L&theme=juicyfresh&no-bg=true" /></p>
+<p align='center'><img align='center' src="https://github-profile-trophy.vercel.app/?username=pratibha54&theme=juicyfresh&no-bg=true" /></p>
 
 <p align='center'>
-<a href="https://github.com/Ashish2000L">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish2000L&show_icons=true&hide=stars&count_private=true&include_all_commits=true&border_radius=10&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<a href="https://github.com/pratibha54">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratibha54&show_icons=true&hide=stars&count_private=true&include_all_commits=true&border_radius=10&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github.com/Ashish2000L">
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish2000L&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="top-langs" />  
+<a href="https://github.com/pratibha54">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratibha54&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="top-langs" />  
 </a>
 </p>
 
@@ -47,15 +47,16 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Ashish2000L"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ashish2000L" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/pratibha54"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pratibha54" /></a></p><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/ashish-kumar-developer"><img src="https://img.shields.io/badge/-LinkedIn-7289DA?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="https://www.linkedin.com/in/pratibha2003/"><img src="https://img.shields.io/badge/-LinkedIn-7289DA?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/provita3416/"><img src="https://img.shields.io/badge/-Instagram-7289DA?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <!--  <a href=""><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> -->
-  <a href="https://dev.to/ashish2000l"><img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="Dev.to"></a>
-  <a href="https://discord.gg/8Hzyg8mrBw"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="mailto:ashishkumar28april@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!--   <a href="https://dev.to/ashish2000l"><img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="Dev.to"></a> -->
+  <a href="https://www.facebook.com/pratibha.pratibha.75033149"><img src="https://img.shields.io/badge/-facebook-7289DA?style=flat&logo=facebook&logoColor=white" alt="facebook"></a>
+  <a href="mailto:pk7420712@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
